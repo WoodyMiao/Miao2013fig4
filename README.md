@@ -1,4 +1,4 @@
-### Scripts capable of repeating the empirical analyses of Fig. 4 in Miao *et al*. 2013
+## Scripts capable of repeating the empirical analyses of Fig. 4 in Miao *et al*. 2023
 
 We created these scripts to describe how to repeat the empirical analyses of **Figure 4** in our published paper:
 
